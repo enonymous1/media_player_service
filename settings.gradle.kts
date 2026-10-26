@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "media_player_service"
-include ':app'
+include(":app")
